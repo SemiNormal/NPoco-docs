@@ -11,7 +11,7 @@ extra_css: [css/extra.css]
 
 pages:
     - Home: index.md
-    - Getting Started: Getting-Started.md
+    - Getting Started: getting-started.md
     - Architecture: Gobblin-Architecture.md
     - User Guide:
         - Job Configuration Files: user-guide/Working-with-Job-Configuration-Files.md
