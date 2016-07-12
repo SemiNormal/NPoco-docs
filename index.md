@@ -1,6 +1,0 @@
-==========
-NPoco
-==========
-
-
-Markdown index
