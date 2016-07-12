@@ -1,6 +1,7 @@
-=====
+
+==========
 NPoco
-=====
+==========
 
 NPoco is a simple microORM that maps the results of a query onto a POCO object. Project is based on Schotime's branch of PetaPoco.
 
