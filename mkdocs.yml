@@ -13,7 +13,7 @@ pages:
     - Home: index.md
     - Getting Started: getting-started.md
     - User Guide:
-        - Job Configuration Files: test.md
-        - Deployment: test2.md
+        - Mapping: mapping.md
+        - Mapping Nested Objects: mapping-nested.md
     
 
