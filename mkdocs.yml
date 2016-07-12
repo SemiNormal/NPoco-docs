@@ -6,7 +6,7 @@ repo_name: NPoco
 
 theme: readthedocs
 
-docs_dir: gobblin-docs
+docs_dir: docs
 extra_css: [css/extra.css]
 
 pages:
